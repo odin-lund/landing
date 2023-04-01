@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Mukta:wght@300;600&family=Noto+Sans:wght@300&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@1,300&family=Lato&family=Mukta:wght@300;600&family=Noto+Sans:wght@300&family=Oswald:wght@300&display=swap');
+
+
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/btn-blue.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+
+
+body {
+	font-family: 'Jost', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 60px;
+
+
+}
+h1,h2,h3 {
+	font-family: 'Loto', sans-serif;
+	font-weight: 500;
+	text-emphasis: white;
+
+
+}
+
+a { 
+	text-decoration: none;
+		text-align: center;
+			font-weight: bold;
+
+}
